@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vipin</h1>
 <h3 align="center">A passionate about DL and its applications to solve Computer Vision problems</h3>
 
-- 🔭 I’m currently working on **Intelligent video processing system**
+- 🔭 I’m currently working on **Intelligent video processing systems**
 
 - 🌱 I’m currently learning **Nvidia Deepstream, Gstreamer, Design and Architecture of vision pipelines**
 
